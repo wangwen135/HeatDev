@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scan_BLE_tips">Find your device ({0} seconds) ...</string>
+    <string name="device_connect">The device is connected</string>
+    <string name="action_settings">settings</string>
+    <string name="app_name">HeatDev</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="device_disconnect">The device has been disconnected</string>
+    <string name="device_unsupported">The device is not supported</string>
+    <string name="ble_return_data_error">Bluetooth devices return data format error</string>
+    <string name="pwm_changed">PWM successfully modified</string>
+    <string name="io_changed">IO successfully modified</string>
+    <string name="temp_threshold_changed">The temperature threshold adjustment success</string>
+    <string name="broadcast_period_changed">Broadcast cycle successfully modified</string>
+    <string name="status_query_fail">Status query fails</string>
+    <string name="pwm_change_fail">PWM modification fails</string>
+    <string name="io_change_fail">IO modification fails</string>
+    <string name="broadcast_period_change_fail">Broadcast cycle modification fails</string>
+    <string name="please_connect_device">Please connect to a device</string>
+    <string name="bluetooth_closed">Bluetooth is off</string>
+    <string name="enable">Open</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="scanning_device">Scan to [{0}] devices</string>
+    <string name="bluetooth_enable">Bluetooth is turned on</string>
+    <string name="pwm_title">PWM regulation:</string>
+    <string name="temp_threshold_title">Temperature Threshold :</string>
+    <string name="broadcast_period_title">Broadcast period:</string>
+    <string name="period_time_unit">second</string>
+    <string name="temp_threshold_change_fail">Failure to adjust the temperature threshold</string>
+    <string name="find_device">Find your device ...</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HeatDev</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="scan_BLE_tips">查找设备({0}秒)...</string>
+    <string name="device_connect">设备已连接</string>
+    <string name="device_disconnect">设备已经断开连接</string>
+    <string name="device_unsupported">不支持该设备</string>
+    <string name="ble_return_data_error">蓝牙设备返回数据格式错误</string>
+    <string name="pwm_changed">PWM修改成功</string>
+    <string name="io_changed">IO修改成功</string>
+    <string name="temp_threshold_changed">温度上下阀值调节成功</string>
+    <string name="broadcast_period_changed">广播周期修改成功</string>
+    <string name="status_query_fail">状态查询失败</string>
+    <string name="pwm_change_fail">PWM修改失败</string>
+    <string name="io_change_fail">IO修改失败</string>
+    <string name="temp_threshold_change_fail">温度上下阀值调节失败</string>
+    <string name="broadcast_period_change_fail">广播周期修改失败</string>
+    <string name="please_connect_device">请先连接到一个设备</string>
+    <string name="bluetooth_closed">蓝牙已关闭</string>
+    <string name="enable">开启</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    <string name="scanning_device">扫描到[{0}]个设备</string>
+    <string name="bluetooth_enable">蓝牙已开启</string>
+    <string name="default_temperature" translatable="false">0.0</string>
+    <string name="temperature_unit" translatable="false">°C</string>
+    <string name="pwm_title">PWM调节：</string>
+    <string name="default_pwm" translatable="false">50</string>
+    <string name="temp_threshold_title">温度阀值调节：</string>
+    <string name="broadcast_period_title">调整广播周期：</string>
+    <string name="period_time_unit">秒</string>
+    <string name="find_device">查找设备...</string>
+</resources>
